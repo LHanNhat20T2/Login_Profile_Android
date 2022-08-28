@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Screen_Interface44</string>
+    <string name="lost_password">Lost password ?</string>
+    <string name="Password">....................</string>
+    <string name="user_name">User Name</string>
+    <string name="todo">TODO</string>
+    <string name="login_me">LOGIN ME</string>
+    <string name="back">Back</string>
+    <string name="Profile">Profile</string>
+    <string name="luonghannhat_2050531200244">LuongHanNhat_2050531200244</string>
+    <string name="profile_name">Profile Name</string>
+</resources>
